@@ -1,3 +1,5 @@
+#author: hammy
+
 from pyautogui import *
 import pyautogui
 import time
