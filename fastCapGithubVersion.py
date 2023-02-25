@@ -16,7 +16,8 @@ import subprocess
 
 #This is for educational and historical purposes only. any use/redistribution or alteration is not my responsibility or liability
 #This was a project I made for fun, there are many ways I have already improved it, and many ways it has yet to be improved.
-#this is a rough draft project so many methods/functions are unused but left in the code while I was experimenting. As of now this project is deprecated and I have no intention of continuing.
+#this is a rough draft project so many methods/functions are unused but left in the code while I was experimenting. 
+# As of now this project is deprecated and I have no intention of adding new features. To run this, use python 3.7 and IDLE
 
 contx = 0
 xDead = 432
