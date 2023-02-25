@@ -1,5 +1,9 @@
 #author: hammy
 
+# note: this is NOT a plug and play. you will have to edit many portions of code to fit your needs.
+# namely: all screenshots, file names, and pixel locations (and their RBG values)
+# This is setup for FIVE "bluestacks 5" instances using multi-sync on a 1440p monitor it will not work without heavy modifications if you intend to use any other setup.
+
 from pyautogui import *
 import pyautogui
 import time
